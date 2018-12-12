@@ -1,0 +1,4 @@
+# ignore epi judge files
+
+/EPIJudge-for-test/*
+/offline-resources/*
