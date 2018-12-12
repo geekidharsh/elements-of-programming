@@ -23,7 +23,7 @@ For testing and discussions, I go to the official website. Below are some useful
 * [Official Discussion website](https://elementsofprogramminginterviews.com/) - sign up/sign in and get started
 * [EPI Judge](https://github.com/adnanaziz/EPIJudge) - Refer to Adnan's github for testing and reference to solutions
 
-###author:
+### author:
 [Harshvardhan Pandey](https://github.com/geekidharsh) - my git profile
 
 ## License
